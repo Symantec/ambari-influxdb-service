@@ -1,5 +1,5 @@
 #
-STEPS TO SET UP INITIAL RAFT NODE CLUSTER OF 3 NODES
+**STEPS TO SET UP INITIAL RAFT NODE CLUSTER OF 3 NODES**
 
  i) In the customize services step, create a separate configuration file for each of the three nodes using “manage configs” option.
 
@@ -35,7 +35,7 @@ vii) click next and deploy.
 
 
 ##
-MORE INFO:
+**MORE INFO:**
 
 Refer to Influxdb clustering documentation for more details
  	https://influxdb.com/docs/v0.9/guides/clustering.html
