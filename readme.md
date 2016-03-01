@@ -1,5 +1,5 @@
 #
-***AMBARI INFLUXDB SERVICE FOR INFLUXDB VERSION 0.9.x AND AMBARI VERSION > 2.1***
+**AMBARI INFLUXDB SERVICE FOR INFLUXDB VERSION 0.9.x AND AMBARI VERSION > 2.1**
 ---
   ambari-influxdb-service allows you to install and manage Influxdb clusters on HDP.
 ####  
