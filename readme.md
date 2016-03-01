@@ -1,9 +1,10 @@
 #
-***Ambari Influxdb Service for Influxdb version 0.9.x and Ambari Version > 2.1***
+***AMBARI INFLUXDB SERVICE FOR INFLUXDB VERSION 0.9.x AND AMBARI VERSION > 2.1***
+---
   ambari-influxdb-service allows you to install and manage Influxdb clusters on HDP.
-  
+####  
 **STEPS TO SET UP INITIAL RAFT NODE CLUSTER OF 3 NODES**
-
+---
  i) In the customize services step, create a separate configuration file for each of the three nodes using “manage configs” option.
 
  ![alt text](https://raw.githubusercontent.com/Symantec/ambari-influxdb-service/master/screenshots/ManageConfigs.png)
@@ -37,9 +38,9 @@ vii) click next and deploy.
 
 
 
-##
+####
 **MORE INFO:**
-
+---
 Refer to Influxdb clustering documentation for more details
  	https://influxdb.com/docs/v0.9/guides/clustering.html
 
